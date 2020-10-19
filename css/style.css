@@ -1,0 +1,7 @@
+.max-td-width{
+    max-width: 150px;
+}
+.show_report_btn{
+    display: block;
+    float: right;
+}
